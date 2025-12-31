@@ -1,0 +1,235 @@
+{"text": "音量多少", "intent": "queryVolume", "lang": "zh"}
+{"text": "现在音量是多少", "intent": "queryVolume", "lang": "zh"}
+{"text": "当前音量", "intent": "queryVolume", "lang": "zh"}
+{"text": "音量大小", "intent": "queryVolume", "lang": "zh"}
+{"text": "查一下音量", "intent": "queryVolume", "lang": "zh"}
+{"text": "what's the volume", "intent": "queryVolume", "lang": "en"}
+{"text": "current volume level", "intent": "queryVolume", "lang": "en"}
+{"text": "音量はいくつ", "intent": "queryVolume", "lang": "ja"}
+{"text": "今の音量", "intent": "queryVolume", "lang": "ja"}
+{"text": "音量调大", "intent": "volumeUp", "lang": "zh"}
+{"text": "声音大一点", "intent": "volumeUp", "lang": "zh"}
+{"text": "调高音量", "intent": "volumeUp", "lang": "zh"}
+{"text": "大声点", "intent": "volumeUp", "lang": "zh"}
+{"text": "音量加大", "intent": "volumeUp", "lang": "zh"}
+{"text": "把声音调大", "intent": "volumeUp", "lang": "zh"}
+{"text": "声音太小了", "intent": "volumeUp", "lang": "zh"}
+{"text": "音量有点低", "intent": "volumeUp", "lang": "zh"}
+{"text": "听不清", "intent": "volumeUp", "lang": "zh"}
+{"text": "turn up the volume", "intent": "volumeUp", "lang": "en"}
+{"text": "louder please", "intent": "volumeUp", "lang": "en"}
+{"text": "increase volume", "intent": "volumeUp", "lang": "en"}
+{"text": "volume up", "intent": "volumeUp", "lang": "en"}
+{"text": "音量を上げて", "intent": "volumeUp", "lang": "ja"}
+{"text": "もっと大きく", "intent": "volumeUp", "lang": "ja"}
+{"text": "音量调小", "intent": "volumeDown", "lang": "zh"}
+{"text": "声音小一点", "intent": "volumeDown", "lang": "zh"}
+{"text": "调低音量", "intent": "volumeDown", "lang": "zh"}
+{"text": "小声点", "intent": "volumeDown", "lang": "zh"}
+{"text": "音量减小", "intent": "volumeDown", "lang": "zh"}
+{"text": "把声音调小", "intent": "volumeDown", "lang": "zh"}
+{"text": "声音太大了", "intent": "volumeDown", "lang": "zh"}
+{"text": "太吵了", "intent": "volumeDown", "lang": "zh"}
+{"text": "turn down the volume", "intent": "volumeDown", "lang": "en"}
+{"text": "quieter please", "intent": "volumeDown", "lang": "en"}
+{"text": "decrease volume", "intent": "volumeDown", "lang": "en"}
+{"text": "volume down", "intent": "volumeDown", "lang": "en"}
+{"text": "音量を下げて", "intent": "volumeDown", "lang": "ja"}
+{"text": "もっと小さく", "intent": "volumeDown", "lang": "ja"}
+{"text": "静音", "intent": "volumeMute", "lang": "zh"}
+{"text": "把声音关掉", "intent": "volumeMute", "lang": "zh"}
+{"text": "关闭声音", "intent": "volumeMute", "lang": "zh"}
+{"text": "音量调成静音", "intent": "volumeMute", "lang": "zh"}
+{"text": "不要声音", "intent": "volumeMute", "lang": "zh"}
+{"text": "mute", "intent": "volumeMute", "lang": "en"}
+{"text": "mute the sound", "intent": "volumeMute", "lang": "en"}
+{"text": "turn off sound", "intent": "volumeMute", "lang": "en"}
+{"text": "ミュート", "intent": "volumeMute", "lang": "ja"}
+{"text": "音を消して", "intent": "volumeMute", "lang": "ja"}
+{"text": "把音量调到50", "intent": "volumeSet", "lang": "zh"}
+{"text": "音量设置为30", "intent": "volumeSet", "lang": "zh"}
+{"text": "设定音量80", "intent": "volumeSet", "lang": "zh"}
+{"text": "音量调到最大", "intent": "volumeSet", "lang": "zh"}
+{"text": "音量设为60%", "intent": "volumeSet", "lang": "zh"}
+{"text": "set volume to 50", "intent": "volumeSet", "lang": "en"}
+{"text": "volume to 80 percent", "intent": "volumeSet", "lang": "en"}
+{"text": "音量を50に設定", "intent": "volumeSet", "lang": "ja"}
+{"text": "亮度多少", "intent": "queryBrightness", "lang": "zh"}
+{"text": "现在亮度是多少", "intent": "queryBrightness", "lang": "zh"}
+{"text": "当前亮度", "intent": "queryBrightness", "lang": "zh"}
+{"text": "屏幕亮度", "intent": "queryBrightness", "lang": "zh"}
+{"text": "what's the brightness", "intent": "queryBrightness", "lang": "en"}
+{"text": "current brightness level", "intent": "queryBrightness", "lang": "en"}
+{"text": "明るさはいくつ", "intent": "queryBrightness", "lang": "ja"}
+{"text": "亮度调大", "intent": "brightnessUp", "lang": "zh"}
+{"text": "屏幕亮一点", "intent": "brightnessUp", "lang": "zh"}
+{"text": "调高亮度", "intent": "brightnessUp", "lang": "zh"}
+{"text": "更亮一些", "intent": "brightnessUp", "lang": "zh"}
+{"text": "亮度加大", "intent": "brightnessUp", "lang": "zh"}
+{"text": "太暗了", "intent": "brightnessUp", "lang": "zh"}
+{"text": "看不清屏幕", "intent": "brightnessUp", "lang": "zh"}
+{"text": "increase brightness", "intent": "brightnessUp", "lang": "en"}
+{"text": "brighter please", "intent": "brightnessUp", "lang": "en"}
+{"text": "brightness up", "intent": "brightnessUp", "lang": "en"}
+{"text": "明るくして", "intent": "brightnessUp", "lang": "ja"}
+{"text": "亮度调小", "intent": "brightnessDown", "lang": "zh"}
+{"text": "屏幕暗一点", "intent": "brightnessDown", "lang": "zh"}
+{"text": "调低亮度", "intent": "brightnessDown", "lang": "zh"}
+{"text": "暗一些", "intent": "brightnessDown", "lang": "zh"}
+{"text": "亮度减小", "intent": "brightnessDown", "lang": "zh"}
+{"text": "太亮了", "intent": "brightnessDown", "lang": "zh"}
+{"text": "有点刺眼", "intent": "brightnessDown", "lang": "zh"}
+{"text": "decrease brightness", "intent": "brightnessDown", "lang": "en"}
+{"text": "dimmer please", "intent": "brightnessDown", "lang": "en"}
+{"text": "brightness down", "intent": "brightnessDown", "lang": "en"}
+{"text": "暗くして", "intent": "brightnessDown", "lang": "ja"}
+{"text": "亮度设置为5", "intent": "brightnessSet", "lang": "zh"}
+{"text": "把亮度调到8", "intent": "brightnessSet", "lang": "zh"}
+{"text": "亮度设为最大", "intent": "brightnessSet", "lang": "zh"}
+{"text": "亮度调到50%", "intent": "brightnessSet", "lang": "zh"}
+{"text": "set brightness to 5", "intent": "brightnessSet", "lang": "en"}
+{"text": "brightness to 80 percent", "intent": "brightnessSet", "lang": "en"}
+{"text": "明るさを5に設定", "intent": "brightnessSet", "lang": "ja"}
+{"text": "自动亮度", "intent": "brightnessAuto", "lang": "zh"}
+{"text": "开启自动亮度", "intent": "brightnessAuto", "lang": "zh"}
+{"text": "打开自动亮度调节", "intent": "brightnessAuto", "lang": "zh"}
+{"text": "亮度自动调节", "intent": "brightnessAuto", "lang": "zh"}
+{"text": "auto brightness", "intent": "brightnessAuto", "lang": "en"}
+{"text": "enable auto brightness", "intent": "brightnessAuto", "lang": "en"}
+{"text": "自動明るさ", "intent": "brightnessAuto", "lang": "ja"}
+{"text": "今天天气怎么样", "intent": "weather_query", "lang": "zh"}
+{"text": "天气预报", "intent": "weather_query", "lang": "zh"}
+{"text": "明天会下雨吗", "intent": "weather_query", "lang": "zh"}
+{"text": "外面热不热", "intent": "weather_query", "lang": "zh"}
+{"text": "今天温度多少", "intent": "weather_query", "lang": "zh"}
+{"text": "北京天气", "intent": "weather_query", "lang": "zh"}
+{"text": "这周天气如何", "intent": "weather_query", "lang": "zh"}
+{"text": "下午会下雨吗", "intent": "weather_query", "lang": "zh"}
+{"text": "what's the weather like", "intent": "weather_query", "lang": "en"}
+{"text": "weather forecast", "intent": "weather_query", "lang": "en"}
+{"text": "is it going to rain", "intent": "weather_query", "lang": "en"}
+{"text": "temperature today", "intent": "weather_query", "lang": "en"}
+{"text": "天気はどう", "intent": "weather_query", "lang": "ja"}
+{"text": "明日の天気", "intent": "weather_query", "lang": "ja"}
+{"text": "查一下股票", "intent": "stock_search", "lang": "zh"}
+{"text": "茅台股价多少", "intent": "stock_search", "lang": "zh"}
+{"text": "苹果股票怎么样", "intent": "stock_search", "lang": "zh"}
+{"text": "看一下基金", "intent": "stock_search", "lang": "zh"}
+{"text": "今天大盘", "intent": "stock_search", "lang": "zh"}
+{"text": "腾讯股价", "intent": "stock_search", "lang": "zh"}
+{"text": "股市行情", "intent": "stock_search", "lang": "zh"}
+{"text": "check stock price", "intent": "stock_search", "lang": "en"}
+{"text": "apple stock", "intent": "stock_search", "lang": "en"}
+{"text": "market today", "intent": "stock_search", "lang": "en"}
+{"text": "株価を見て", "intent": "stock_search", "lang": "ja"}
+{"text": "打开翻译模式", "intent": "modeOpen", "lang": "zh"}
+{"text": "进入翻译", "intent": "modeOpen", "lang": "zh"}
+{"text": "开启提词器", "intent": "modeOpen", "lang": "zh"}
+{"text": "打开勿扰模式", "intent": "modeOpen", "lang": "zh"}
+{"text": "开启实时字幕", "intent": "modeOpen", "lang": "zh"}
+{"text": "进入会议纪要", "intent": "modeOpen", "lang": "zh"}
+{"text": "开始录音", "intent": "modeOpen", "lang": "zh"}
+{"text": "打开防漏音", "intent": "modeOpen", "lang": "zh"}
+{"text": "开启问答顾问", "intent": "modeOpen", "lang": "zh"}
+{"text": "进入健谈助手", "intent": "modeOpen", "lang": "zh"}
+{"text": "open translator", "intent": "modeOpen", "lang": "en"}
+{"text": "enable do not disturb", "intent": "modeOpen", "lang": "en"}
+{"text": "start live subtitle", "intent": "modeOpen", "lang": "en"}
+{"text": "start recording", "intent": "modeOpen", "lang": "en"}
+{"text": "翻訳モードを開いて", "intent": "modeOpen", "lang": "ja"}
+{"text": "録音を開始", "intent": "modeOpen", "lang": "ja"}
+{"text": "关闭翻译模式", "intent": "modeClose", "lang": "zh"}
+{"text": "退出翻译", "intent": "modeClose", "lang": "zh"}
+{"text": "关掉提词器", "intent": "modeClose", "lang": "zh"}
+{"text": "关闭勿扰模式", "intent": "modeClose", "lang": "zh"}
+{"text": "停止实时字幕", "intent": "modeClose", "lang": "zh"}
+{"text": "退出会议纪要", "intent": "modeClose", "lang": "zh"}
+{"text": "停止录音", "intent": "modeClose", "lang": "zh"}
+{"text": "关闭防漏音", "intent": "modeClose", "lang": "zh"}
+{"text": "关掉问答顾问", "intent": "modeClose", "lang": "zh"}
+{"text": "退出健谈助手", "intent": "modeClose", "lang": "zh"}
+{"text": "close translator", "intent": "modeClose", "lang": "en"}
+{"text": "disable do not disturb", "intent": "modeClose", "lang": "en"}
+{"text": "stop live subtitle", "intent": "modeClose", "lang": "en"}
+{"text": "stop recording", "intent": "modeClose", "lang": "en"}
+{"text": "翻訳モードを閉じて", "intent": "modeClose", "lang": "ja"}
+{"text": "録音を停止", "intent": "modeClose", "lang": "ja"}
+{"text": "设个倒计时5分钟", "intent": "timeCountdown", "lang": "zh"}
+{"text": "倒计时10分钟", "intent": "timeCountdown", "lang": "zh"}
+{"text": "开始倒计时", "intent": "timeCountdown", "lang": "zh"}
+{"text": "取消倒计时", "intent": "timeCountdown", "lang": "zh"}
+{"text": "停止倒计时", "intent": "timeCountdown", "lang": "zh"}
+{"text": "30秒倒计时", "intent": "timeCountdown", "lang": "zh"}
+{"text": "set a 5 minute timer", "intent": "timeCountdown", "lang": "en"}
+{"text": "start countdown", "intent": "timeCountdown", "lang": "en"}
+{"text": "cancel timer", "intent": "timeCountdown", "lang": "en"}
+{"text": "5分のタイマー", "intent": "timeCountdown", "lang": "ja"}
+{"text": "开始计时", "intent": "timeCount", "lang": "zh"}
+{"text": "煮蛋计时", "intent": "timeCount", "lang": "zh"}
+{"text": "开始煮饭计时", "intent": "timeCount", "lang": "zh"}
+{"text": "停止计时", "intent": "timeCount", "lang": "zh"}
+{"text": "取消计时", "intent": "timeCount", "lang": "zh"}
+{"text": "泡茶计时", "intent": "timeCount", "lang": "zh"}
+{"text": "start stopwatch", "intent": "timeCount", "lang": "en"}
+{"text": "time my cooking", "intent": "timeCount", "lang": "en"}
+{"text": "stop counting", "intent": "timeCount", "lang": "en"}
+{"text": "計時開始", "intent": "timeCount", "lang": "ja"}
+{"text": "帮我翻译", "intent": "translate", "lang": "zh"}
+{"text": "翻译成英文", "intent": "translate", "lang": "zh"}
+{"text": "这句话用日语怎么说", "intent": "translate", "lang": "zh"}
+{"text": "把这段翻译成中文", "intent": "translate", "lang": "zh"}
+{"text": "英语翻译", "intent": "translate", "lang": "zh"}
+{"text": "日语怎么说", "intent": "translate", "lang": "zh"}
+{"text": "translate to English", "intent": "translate", "lang": "en"}
+{"text": "what's this in Japanese", "intent": "translate", "lang": "en"}
+{"text": "translate to Chinese", "intent": "translate", "lang": "en"}
+{"text": "英語に翻訳", "intent": "translate", "lang": "ja"}
+{"text": "中国語で", "intent": "translate", "lang": "ja"}
+{"text": "打电话给张三", "intent": "call", "lang": "zh"}
+{"text": "给妈妈打电话", "intent": "call", "lang": "zh"}
+{"text": "拨打10086", "intent": "call", "lang": "zh"}
+{"text": "打给老板", "intent": "call", "lang": "zh"}
+{"text": "呼叫李四", "intent": "call", "lang": "zh"}
+{"text": "联系王五", "intent": "call", "lang": "zh"}
+{"text": "给爸爸打个电话", "intent": "call", "lang": "zh"}
+{"text": "call mom", "intent": "call", "lang": "en"}
+{"text": "dial 911", "intent": "call", "lang": "en"}
+{"text": "phone John", "intent": "call", "lang": "en"}
+{"text": "お母さんに電話", "intent": "call", "lang": "ja"}
+{"text": "导航到天安门", "intent": "navigation", "lang": "zh"}
+{"text": "去北京西站怎么走", "intent": "navigation", "lang": "zh"}
+{"text": "带我去机场", "intent": "navigation", "lang": "zh"}
+{"text": "导航回家", "intent": "navigation", "lang": "zh"}
+{"text": "去公司的路线", "intent": "navigation", "lang": "zh"}
+{"text": "怎么去医院", "intent": "navigation", "lang": "zh"}
+{"text": "导航到最近的加油站", "intent": "navigation", "lang": "zh"}
+{"text": "navigate to airport", "intent": "navigation", "lang": "en"}
+{"text": "directions to downtown", "intent": "navigation", "lang": "en"}
+{"text": "how to get to the station", "intent": "navigation", "lang": "en"}
+{"text": "take me home", "intent": "navigation", "lang": "en"}
+{"text": "空港までナビ", "intent": "navigation", "lang": "ja"}
+{"text": "駅への道", "intent": "navigation", "lang": "ja"}
+{"text": "你好", "intent": "chat", "lang": "zh"}
+{"text": "你好吗", "intent": "chat", "lang": "zh"}
+{"text": "今天吃什么", "intent": "chat", "lang": "zh"}
+{"text": "你是谁", "intent": "chat", "lang": "zh"}
+{"text": "讲个笑话", "intent": "chat", "lang": "zh"}
+{"text": "无聊啊", "intent": "chat", "lang": "zh"}
+{"text": "你叫什么名字", "intent": "chat", "lang": "zh"}
+{"text": "谢谢", "intent": "chat", "lang": "zh"}
+{"text": "再见", "intent": "chat", "lang": "zh"}
+{"text": "你真棒", "intent": "chat", "lang": "zh"}
+{"text": "今天心情不好", "intent": "chat", "lang": "zh"}
+{"text": "陪我聊聊天", "intent": "chat", "lang": "zh"}
+{"text": "hello", "intent": "chat", "lang": "en"}
+{"text": "how are you", "intent": "chat", "lang": "en"}
+{"text": "what's your name", "intent": "chat", "lang": "en"}
+{"text": "tell me a joke", "intent": "chat", "lang": "en"}
+{"text": "I'm bored", "intent": "chat", "lang": "en"}
+{"text": "thank you", "intent": "chat", "lang": "en"}
+{"text": "goodbye", "intent": "chat", "lang": "en"}
+{"text": "こんにちは", "intent": "chat", "lang": "ja"}
+{"text": "元気ですか", "intent": "chat", "lang": "ja"}
+{"text": "名前は何", "intent": "chat", "lang": "ja"}
+{"text": "つまらない", "intent": "chat", "lang": "ja"}
+{"text": "ありがとう", "intent": "chat", "lang": "ja"}

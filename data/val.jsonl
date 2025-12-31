@@ -1,0 +1,48 @@
+{"text": "音量是多少", "intent": "queryVolume", "lang": "zh"}
+{"text": "查看音量", "intent": "queryVolume", "lang": "zh"}
+{"text": "volume level", "intent": "queryVolume", "lang": "en"}
+{"text": "声音调大", "intent": "volumeUp", "lang": "zh"}
+{"text": "音量再大一点", "intent": "volumeUp", "lang": "zh"}
+{"text": "make it louder", "intent": "volumeUp", "lang": "en"}
+{"text": "声音调小", "intent": "volumeDown", "lang": "zh"}
+{"text": "音量再小一点", "intent": "volumeDown", "lang": "zh"}
+{"text": "lower the volume", "intent": "volumeDown", "lang": "en"}
+{"text": "关闭声音", "intent": "volumeMute", "lang": "zh"}
+{"text": "silence", "intent": "volumeMute", "lang": "en"}
+{"text": "音量设为70", "intent": "volumeSet", "lang": "zh"}
+{"text": "set volume 50", "intent": "volumeSet", "lang": "en"}
+{"text": "查看亮度", "intent": "queryBrightness", "lang": "zh"}
+{"text": "brightness level", "intent": "queryBrightness", "lang": "en"}
+{"text": "屏幕更亮一些", "intent": "brightnessUp", "lang": "zh"}
+{"text": "make it brighter", "intent": "brightnessUp", "lang": "en"}
+{"text": "屏幕更暗一些", "intent": "brightnessDown", "lang": "zh"}
+{"text": "make it dimmer", "intent": "brightnessDown", "lang": "en"}
+{"text": "亮度设为8", "intent": "brightnessSet", "lang": "zh"}
+{"text": "set brightness 50", "intent": "brightnessSet", "lang": "en"}
+{"text": "自动调节亮度", "intent": "brightnessAuto", "lang": "zh"}
+{"text": "今天下雨吗", "intent": "weather_query", "lang": "zh"}
+{"text": "上海天气如何", "intent": "weather_query", "lang": "zh"}
+{"text": "will it rain today", "intent": "weather_query", "lang": "en"}
+{"text": "阿里巴巴股票", "intent": "stock_search", "lang": "zh"}
+{"text": "查一下基金净值", "intent": "stock_search", "lang": "zh"}
+{"text": "tesla stock price", "intent": "stock_search", "lang": "en"}
+{"text": "启动翻译", "intent": "modeOpen", "lang": "zh"}
+{"text": "开始会议记录", "intent": "modeOpen", "lang": "zh"}
+{"text": "turn on recorder", "intent": "modeOpen", "lang": "en"}
+{"text": "关掉翻译", "intent": "modeClose", "lang": "zh"}
+{"text": "结束会议记录", "intent": "modeClose", "lang": "zh"}
+{"text": "turn off recorder", "intent": "modeClose", "lang": "en"}
+{"text": "设置3分钟倒计时", "intent": "timeCountdown", "lang": "zh"}
+{"text": "countdown 5 minutes", "intent": "timeCountdown", "lang": "en"}
+{"text": "开始跑步计时", "intent": "timeCount", "lang": "zh"}
+{"text": "start timer", "intent": "timeCount", "lang": "en"}
+{"text": "翻译成日语", "intent": "translate", "lang": "zh"}
+{"text": "how do you say this in English", "intent": "translate", "lang": "en"}
+{"text": "给朋友打电话", "intent": "call", "lang": "zh"}
+{"text": "call my friend", "intent": "call", "lang": "en"}
+{"text": "导航去商场", "intent": "navigation", "lang": "zh"}
+{"text": "navigate to mall", "intent": "navigation", "lang": "en"}
+{"text": "你能做什么", "intent": "chat", "lang": "zh"}
+{"text": "早上好", "intent": "chat", "lang": "zh"}
+{"text": "what can you do", "intent": "chat", "lang": "en"}
+{"text": "good morning", "intent": "chat", "lang": "en"}
