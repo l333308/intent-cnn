@@ -1,0 +1,150 @@
+domain: control
+description: 系统控制相关意图
+intents:
+  - name: Intent
+    description: Intent
+    nlp_code: N
+    app_code: N
+    slots:
+      - name: value
+        alias: v
+        type: int
+        required: false
+  - name: queryVolume
+    description: queryVolume
+    nlp_code: QV
+    app_code: QV
+    slots: []
+  - name: volumeUp
+    description: volumeUp
+    nlp_code: VU
+    app_code: VU
+    slots:
+      - name: value
+        alias: v
+        type: int
+        range: 0-100
+        unit: percent
+        required: false
+  - name: volumeDown
+    description: volumeDown
+    nlp_code: VD
+    app_code: VD
+    slots:
+      - name: value
+        alias: v
+        type: int
+        range: 0-100
+        unit: percent
+        required: false
+  - name: volumeMute
+    description: volumeMute
+    nlp_code: VS
+    app_code: VS
+    slots:
+      - name: value
+        alias: v
+        type: int
+        fixed: 0
+        required: true
+  - name: volumeSet
+    description: volumeSet
+    nlp_code: VS
+    app_code: VS
+    slots:
+      - name: value
+        alias: v
+        type: int
+        range: 0-100
+        unit: percent
+        required: false
+  - name: queryBrightness
+    description: queryBrightness
+    nlp_code: QB
+    app_code: QB
+    slots:
+      - name: value
+        alias: v
+        type: int
+        range: 0-10
+        unit: level
+        required: false
+  - name: brightnessSet
+    description: brightnessSet
+    nlp_code: BS
+    app_code: BS
+    slots:
+      - name: value
+        alias: v
+        type: int
+        range: 0-10
+        unit: level
+        required: false
+  - name: brightnessUp
+    description: brightnessUp
+    nlp_code: BU
+    app_code: BU
+    slots:
+      - name: value
+        alias: v
+        type: int
+        range: 0-10
+        unit: level
+        required: false
+  - name: brightnessDown
+    description: brightnessDown
+    nlp_code: BD
+    app_code: BD
+    slots:
+      - name: value
+        alias: v
+        type: int
+        range: 0-10
+        unit: level
+        required: false
+  - name: brightnessAuto
+    description: brightnessAuto
+    nlp_code: ''
+    app_code: ''
+    slots: []
+  - name: modeOpen
+    description: modeOpen
+    nlp_code: "\"LT\" // 翻译\n\"TP\" // 提词器\n\"ND\" // 勿打扰\n\"LS\" // 实时字幕\n\"MR\"\
+      \ // 会议纪要\n\"SLP\" // 防漏音\n \"AP\" // 问答顾问\n\"RC\" // 录音\nBA // 自动亮度"
+    app_code: "\"LT\" // 翻译\n\"TP\" // 提词器\n\"ND\" // 勿打扰\n\"LS\" // 实时字幕\n\"MR\"\
+      \ // 会议纪要\n\"SLP\" // 防漏音\n \"AP\" // 问答顾问\n\"RC\" // 录音\nBA // 自动亮度"
+    slots:
+      - name: value
+        alias: v
+        type: int
+        required: false
+  - name: modeClose
+    description: modeClose
+    nlp_code: ''
+    app_code: ''
+    slots: []
+  - name: timeCountdown
+    description: timeCountdown
+    nlp_code: ''
+    app_code: ''
+    slots: []
+  - name: timeCount
+    description: timeCount
+    nlp_code: ''
+    app_code: ''
+    slots: []
+  - name: translate
+    description: translate
+    nlp_code: ''
+    app_code: ''
+    slots: []
+  - name: navigation
+    description: navigation
+    nlp_code: ''
+    app_code: ''
+    slots: []
+  - name: chat
+    description: chat
+    nlp_code: ''
+    app_code: ''
+    slots: []

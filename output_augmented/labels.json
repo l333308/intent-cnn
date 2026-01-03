@@ -1,0 +1,22 @@
+{
+  "brightnessAuto": 0,
+  "brightnessDown": 1,
+  "brightnessSet": 2,
+  "brightnessUp": 3,
+  "call": 4,
+  "chat": 5,
+  "modeClose": 6,
+  "modeOpen": 7,
+  "navigation": 8,
+  "queryBrightness": 9,
+  "queryVolume": 10,
+  "stock_search": 11,
+  "timeCount": 12,
+  "timeCountdown": 13,
+  "translate": 14,
+  "volumeDown": 15,
+  "volumeMute": 16,
+  "volumeSet": 17,
+  "volumeUp": 18,
+  "weather_query": 19
+}

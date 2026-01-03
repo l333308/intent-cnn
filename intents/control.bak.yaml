@@ -1,0 +1,130 @@
+domain: control
+description: 系统控制相关意图（音量、亮度、模式）
+
+intents:
+  # ===== 音量 =====
+  - name: queryVolume
+    description: 查询当前音量
+    nlp_code: QV
+    app_code: QV
+    slots: []
+
+  - name: volumeUp
+    description: 调高音量
+    nlp_code: VU
+    app_code: VU
+    slots:
+      - name: value
+        alias: v
+        type: int
+        range: 0-100
+        unit: percent
+        required: false
+
+  - name: volumeDown
+    description: 调低音量
+    nlp_code: VD
+    app_code: VD
+    slots:
+      - name: value
+        alias: v
+        type: int
+        range: 0-100
+        unit: percent
+        required: false
+
+  - name: volumeMute
+    description: 静音
+    nlp_code: VS
+    app_code: VS
+    slots:
+      - name: value
+        alias: v
+        type: int
+        fixed: 0
+        unit: percent
+        required: true
+
+  - name: volumeSet
+    description: 设置音量到指定值
+    nlp_code: VS
+    app_code: VS
+    slots:
+      - name: value
+        alias: v
+        type: int
+        range: 0-100
+        unit: percent
+        required: true
+
+  # ===== 亮度 =====
+  - name: queryBrightness
+    description: 查询当前亮度
+    nlp_code: QB
+    app_code: QB
+    slots: []
+
+  - name: brightnessSet
+    description: 设置亮度到指定值
+    nlp_code: BS
+    app_code: BS
+    slots:
+      - name: value
+        alias: v
+        type: int
+        range: 0-10
+        unit: level
+        required: true
+
+  - name: brightnessUp
+    description: 调高亮度
+    nlp_code: BU
+    app_code: BU
+    slots:
+      - name: value
+        alias: v
+        type: int
+        range: 0-10
+        unit: level
+        required: false
+
+  - name: brightnessDown
+    description: 调低亮度
+    nlp_code: BD
+    app_code: BD
+    slots:
+      - name: value
+        alias: v
+        type: int
+        range: 0-10
+        unit: level
+        required: false
+
+  - name: brightnessAuto
+    description: 自动亮度
+    nlp_code: BA
+    app_code: BA
+    slots: []
+
+  # ===== 模式控制 =====
+  - name: modeOpen
+    description: 进入指定模式
+    nlp_code: AP
+    app_code: AP
+    slots:
+      - name: value
+        alias: v
+        type: int
+        enum: [0, 1]
+        required: true
+
+  - name: modeClose
+    description: 退出指定模式
+    nlp_code: AP
+    app_code: AP
+    slots:
+      - name: value
+        alias: v
+        type: int
+        fixed: 0
+        required: true

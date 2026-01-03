@@ -1,0 +1,120 @@
+{"text": "5分钟倒计时", "intent": "timeCountdown", "lang": "zh"}
+{"text": "tesla stock price", "intent": "stock_search", "lang": "en"}
+{"text": "make it dimmer", "intent": "brightnessDown", "lang": "en"}
+{"text": "静音", "intent": "volumeMute", "lang": "zh"}
+{"text": "亮度调低", "intent": "brightnessDown", "lang": "zh"}
+{"text": "音量はいくつ", "intent": "queryVolume", "lang": "ja"}
+{"text": "亮度调高", "intent": "brightnessUp", "lang": "zh"}
+{"text": "countdown 5 minutes", "intent": "timeCountdown", "lang": "en"}
+{"text": "结束会议记录", "intent": "modeClose", "lang": "zh"}
+{"text": "自动亮度", "intent": "brightnessAuto", "lang": "zh"}
+{"text": "音量是多少", "intent": "queryVolume", "lang": "zh"}
+{"text": "turn up the volume", "intent": "volumeUp", "lang": "en"}
+{"text": "how do you say this in English", "intent": "translate", "lang": "en"}
+{"text": "begin timer", "intent": "timeCount", "lang": "en"}
+{"text": "音量设为70", "intent": "volumeSet", "lang": "zh"}
+{"text": "查看音量", "intent": "queryVolume", "lang": "zh"}
+{"text": "给朋友打电话", "intent": "call", "lang": "zh"}
+{"text": "株価", "intent": "stock_search", "lang": "ja"}
+{"text": "音量を50に", "intent": "volumeSet", "lang": "ja"}
+{"text": "set brightness to 5", "intent": "brightnessSet", "lang": "en"}
+{"text": "こんにちは", "intent": "chat", "lang": "ja"}
+{"text": "enable translation mode", "intent": "modeOpen", "lang": "en"}
+{"text": "屏幕更暗一些", "intent": "brightnessDown", "lang": "zh"}
+{"text": "屏幕太暗了", "intent": "brightnessUp", "lang": "zh"}
+{"text": "navigate to airport", "intent": "navigation", "lang": "en"}
+{"text": "设置亮度5", "intent": "brightnessSet", "lang": "zh"}
+{"text": "make it brighter", "intent": "brightnessUp", "lang": "en"}
+{"text": "打开翻译模式", "intent": "modeOpen", "lang": "zh"}
+{"text": "明るさを5に", "intent": "brightnessSet", "lang": "ja"}
+{"text": "启动翻译", "intent": "translate", "lang": "zh"}
+{"text": "屏幕太亮了", "intent": "brightnessDown", "lang": "zh"}
+{"text": "导航去商场", "intent": "navigation", "lang": "zh"}
+{"text": "lower the volume", "intent": "volumeDown", "lang": "en"}
+{"text": "导航到机场", "intent": "navigation", "lang": "zh"}
+{"text": "音量调小", "intent": "volumeDown", "lang": "zh"}
+{"text": "查一下基金净值", "intent": "stock_search", "lang": "zh"}
+{"text": "stock price", "intent": "stock_search", "lang": "en"}
+{"text": "タイマー開始", "intent": "timeCount", "lang": "ja"}
+{"text": "今天下雨吗", "intent": "weather_query", "lang": "zh"}
+{"text": "你能做什么", "intent": "chat", "lang": "zh"}
+{"text": "what can you do", "intent": "chat", "lang": "en"}
+{"text": "set brightness 50", "intent": "brightnessSet", "lang": "en"}
+{"text": "屏幕更亮一些", "intent": "brightnessUp", "lang": "zh"}
+{"text": "关掉翻译", "intent": "modeClose", "lang": "zh"}
+{"text": "silence", "intent": "volumeMute", "lang": "en"}
+{"text": "turn off recorder", "intent": "modeClose", "lang": "en"}
+{"text": "make it louder", "intent": "volumeUp", "lang": "en"}
+{"text": "把音量调到50", "intent": "volumeSet", "lang": "zh"}
+{"text": "brightness level", "intent": "queryBrightness", "lang": "en"}
+{"text": "自動明るさ", "intent": "brightnessAuto", "lang": "ja"}
+{"text": "what's the weather", "intent": "weather_query", "lang": "en"}
+{"text": "翻译成英文", "intent": "translate", "lang": "zh"}
+{"text": "打电话给爸爸", "intent": "call", "lang": "zh"}
+{"text": "给妈妈打电话", "intent": "call", "lang": "zh"}
+{"text": "声音调小", "intent": "volumeDown", "lang": "zh"}
+{"text": "increase brightness", "intent": "brightnessUp", "lang": "en"}
+{"text": "call my friend", "intent": "call", "lang": "en"}
+{"text": "translate to English", "intent": "translate", "lang": "en"}
+{"text": "开始跑步计时", "intent": "timeCount", "lang": "zh"}
+{"text": "亮度调到5", "intent": "brightnessSet", "lang": "zh"}
+{"text": "声音调大", "intent": "volumeUp", "lang": "zh"}
+{"text": "关掉声音", "intent": "volumeMute", "lang": "zh"}
+{"text": "亮度设为8", "intent": "brightnessSet", "lang": "zh"}
+{"text": "auto brightness", "intent": "brightnessAuto", "lang": "en"}
+{"text": "天気は", "intent": "weather_query", "lang": "ja"}
+{"text": "倒计时5分钟", "intent": "timeCountdown", "lang": "zh"}
+{"text": "what's the brightness", "intent": "queryBrightness", "lang": "en"}
+{"text": "茅台股价", "intent": "stock_search", "lang": "zh"}
+{"text": "automatic brightness", "intent": "brightnessAuto", "lang": "en"}
+{"text": "今天天气怎么样", "intent": "weather_query", "lang": "zh"}
+{"text": "翻译成日语", "intent": "translate", "lang": "zh"}
+{"text": "开始会议记录", "intent": "modeOpen", "lang": "zh"}
+{"text": "翻訳モード開始", "intent": "modeOpen", "lang": "ja"}
+{"text": "音量调大", "intent": "volumeUp", "lang": "zh"}
+{"text": "good morning", "intent": "chat", "lang": "en"}
+{"text": "翻訳モード終了", "intent": "modeClose", "lang": "ja"}
+{"text": "亮度多少", "intent": "queryBrightness", "lang": "zh"}
+{"text": "上海天气如何", "intent": "weather_query", "lang": "zh"}
+{"text": "设置3分钟倒计时", "intent": "timeCountdown", "lang": "zh"}
+{"text": "volume level", "intent": "queryVolume", "lang": "en"}
+{"text": "decrease brightness", "intent": "brightnessDown", "lang": "en"}
+{"text": "阿里巴巴股票", "intent": "stock_search", "lang": "zh"}
+{"text": "will it rain today", "intent": "weather_query", "lang": "en"}
+{"text": "音量再小一点", "intent": "volumeDown", "lang": "zh"}
+{"text": "暗くして", "intent": "brightnessDown", "lang": "ja"}
+{"text": "空港までナビ", "intent": "navigation", "lang": "ja"}
+{"text": "turn down the volume", "intent": "volumeDown", "lang": "en"}
+{"text": "5分カウントダウン", "intent": "timeCountdown", "lang": "ja"}
+{"text": "ミュート", "intent": "volumeMute", "lang": "ja"}
+{"text": "你好", "intent": "chat", "lang": "zh"}
+{"text": "音量设置50", "intent": "volumeSet", "lang": "zh"}
+{"text": "call mom", "intent": "call", "lang": "en"}
+{"text": "查看亮度", "intent": "queryBrightness", "lang": "zh"}
+{"text": "音量を下げて", "intent": "volumeDown", "lang": "ja"}
+{"text": "计时开始", "intent": "timeCount", "lang": "zh"}
+{"text": "怎么去火车站", "intent": "navigation", "lang": "zh"}
+{"text": "关闭声音", "intent": "volumeMute", "lang": "zh"}
+{"text": "set volume 50", "intent": "volumeSet", "lang": "en"}
+{"text": "音量再大一点", "intent": "volumeUp", "lang": "zh"}
+{"text": "明るくして", "intent": "brightnessUp", "lang": "ja"}
+{"text": "母に電話", "intent": "call", "lang": "ja"}
+{"text": "翻译", "intent": "translate", "lang": "zh"}
+{"text": "早上好", "intent": "chat", "lang": "zh"}
+{"text": "翻訳して", "intent": "translate", "lang": "ja"}
+{"text": "turn on recorder", "intent": "modeOpen", "lang": "en"}
+{"text": "开始计时", "intent": "timeCount", "lang": "zh"}
+{"text": "音量多少", "intent": "queryVolume", "lang": "zh"}
+{"text": "5 minute countdown", "intent": "timeCountdown", "lang": "en"}
+{"text": "明るさはいくつ", "intent": "queryBrightness", "lang": "ja"}
+{"text": "自动调节亮度", "intent": "brightnessAuto", "lang": "zh"}
+{"text": "当前亮度", "intent": "queryBrightness", "lang": "zh"}
+{"text": "音量を上げて", "intent": "volumeUp", "lang": "ja"}
+{"text": "what's the volume", "intent": "queryVolume", "lang": "en"}
+{"text": "disable translation mode", "intent": "modeClose", "lang": "en"}
+{"text": "set volume to 50", "intent": "volumeSet", "lang": "en"}
+{"text": "navigate to mall", "intent": "navigation", "lang": "en"}
+{"text": "关闭录音", "intent": "modeClose", "lang": "zh"}
+{"text": "亮度自动", "intent": "brightnessAuto", "lang": "zh"}
+{"text": "start timer", "intent": "timeCount", "lang": "en"}
+{"text": "mute", "intent": "volumeMute", "lang": "en"}
